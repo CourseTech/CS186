@@ -1,0 +1,5 @@
+{ "type": "ant_src",
+  "files": ["src/sets/SetUtilities.java",
+  			"src/similarity/SimilarityUtilities.java"],
+  "tests": ["junit_tests"]
+}

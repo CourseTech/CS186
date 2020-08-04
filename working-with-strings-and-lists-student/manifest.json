@@ -1,0 +1,6 @@
+{ "type": "ant_src",
+  "files": ["src/list/exercises/ExtendedArrayList.java",
+            "src/list/exercises/ListExercises.java",
+            "src/string/exercises/StringExercises.java"],
+  "tests": ["junit_tests"]
+}

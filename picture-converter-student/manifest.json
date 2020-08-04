@@ -1,0 +1,5 @@
+{ "type": "ant_src",
+  "files": ["src/mosaic/TileFactory.java"],
+  "tests": ["junit_tests"],
+  "virtual_fb": "true"
+}
